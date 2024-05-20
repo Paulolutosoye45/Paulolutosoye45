@@ -4,12 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-I am a mern front-end developer who loves react!
+'m a Fullstack Software Developer (MERN)
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [paulolutosoye@gmail.com](mailto:paulolutosoye@gmail.com)
 * 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating / freelancing on interesting projects as a React / Node.js developer
+* 
 * ⚡  I'm secretly shazam..... don't tell anyone
 
 ### Skills
