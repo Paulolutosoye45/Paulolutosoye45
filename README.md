@@ -8,7 +8,6 @@ Frontend Developer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [paulolutosoye@gmail.com](mailto:paulolutosoye@gmail.com)
-* 🧠  I'm learning Nextjs
 * 🤝  I'm open to collaborating / freelancing on interesting projects as a React / Node.js developer
 * ⚡  I'm secretly shazam..... don't tell anyone
 
